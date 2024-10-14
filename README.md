@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shitanshukumar607&label=Profile%20views&color=0e75b6&style=flat" alt="shitanshukumar607" /> </p>
 
-- 🔭 I’m currently working with **Data structures and Algorithms**
+- 🌱 I’m currently learning about **Data Structures and Algorithms** and **MERN stack**
 
-- 🌱 I’m currently learning **MERN**
-
-- 👯 I’m looking to collaborate on [Quizzical](https://quizzical-nu-five.vercel.app/)
-
-- 💬 Ask me about **react , DSA**
+- 💬 Ask me about **React-JS and Data Structures and Algorithms**
 
 - 📫 How to reach me **shitanshukumar639@gmail.com**
 
